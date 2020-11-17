@@ -2,6 +2,9 @@
 
 ![](asset/1.png)
 
+
+![](https://user-images.githubusercontent.com/19310326/99248199-6d84a580-284b-11eb-92ef-8e182d9bd918.png)
+
 ---
 
 ## 순서도
