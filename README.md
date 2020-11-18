@@ -1,9 +1,26 @@
-# 20201116-Flowchart
+## 문제
 
-![](asset/1.png)
+[순서도 랩터로 어떻게 작성할 지 #1](/../../issues/1)
 
+<details>
+<summary>:open_book: 문제 보기</summary>
 
-![](https://user-images.githubusercontent.com/19310326/99248199-6d84a580-284b-11eb-92ef-8e182d9bd918.png)
+  ### 문제
+
+  아래 (출력)과 같이 문자열이 출력될 수 있도록 하는 **"자연어, 순서도, 파이썬, C언어"**까지 기술하여 보자.
+
+  ### 입출력 형식
+
+  (입력) 원가가 1000원인 과자를 1300원에 25개를 팔았다.
+  ※ 총 판매액과 판매이익을 아래와 같이 출력한다.
+
+  (출력)
+  ```text
+  Total Sales Price : 32500
+  Sales Profit : 7500
+  ```
+
+</details>
 
 ---
 
